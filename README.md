@@ -1,6 +1,6 @@
 ## Python First HW
 
-This code was created for a class I took where all code was developed on Linux serves.
+This code was created for a class I took where all code was developed on Linux servers.
 
 This code was developed to fulfill homework requirements, not professional development.
 
