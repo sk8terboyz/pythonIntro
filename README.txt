@@ -1,3 +1,11 @@
+## Python First HW
+
+This code was created for a class I took where all code was developed on Linux serves.
+
+This code was developed to fulfill homework requirements, not professional development.
+
+Previous README (typically used to explain the program to peers or answer questions asked by the professor):
+
 Welcome to the README page.
 
 I put all of the homework problems into one file and created a menu for the user
